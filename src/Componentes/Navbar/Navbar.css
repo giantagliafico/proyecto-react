@@ -1,0 +1,40 @@
+.nav-index{
+    height: 100px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.lista{
+   
+}
+.a{
+
+    text-decoration: none;
+    margin: 10px;
+    font-size: 22px;
+    color: black;
+    font-family: 'PT Serif', serif;
+}
+.a:hover{
+    transition: 0.5s;
+    color: rgba(91, 125, 248, 0.991);
+    
+}.buscador{
+    height: 25px;
+}
+.boton{
+    text-decoration: none;
+    margin-left: 5px;
+    height: 31px;
+    background-color: #fff;
+
+}
+.boton:hover{
+    transition: 0.5s;
+    background-color: rgba(91, 125, 248, 0.991);
+}
